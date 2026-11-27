@@ -1,4 +1,4 @@
-# Advanced Database Management Sy
+# Advanced Database Management Sys
 
 This repository contains academic projects, database designs, SQL implementations, and documentation developed as part of the Advanced Database Management System course.
 
